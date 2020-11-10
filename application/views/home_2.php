@@ -33,7 +33,7 @@ $product2 = $query->result();
         $products = $query->result();
         ?>
         <div class="title-text">
-          ผลิตภัณฑ์แนะนำ ...
+          ผลิตภัณฑ์แนะนำ
         </div>
       </div>
       <div class="row rec-product">
