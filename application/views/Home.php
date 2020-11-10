@@ -37,7 +37,7 @@ $packages = $query->result();
           </div>
           
           <div class="title-text">
-            ผลิตภัณฑ์แนะนำ 
+            ผลิตภัณฑ์แนะนำ 55555
           </div>
         </div>
       </div>
